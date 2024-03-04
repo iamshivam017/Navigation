@@ -1,0 +1,10 @@
+div{
+    background-color: black;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 15px;
+}
+button:hover {
+    background-color: red;
+    color: aqua;
+}
